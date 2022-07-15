@@ -1,0 +1,5 @@
+dlib==19.24.0
+imutils==0.5.4
+keras==2.9.0
+numpy==1.23.1
+opencv_python==4.6.0.66

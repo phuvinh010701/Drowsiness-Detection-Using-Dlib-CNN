@@ -1,4 +1,4 @@
-# Real-time Drowsiness Detection Using Dlid and OpenCV
+# Real-time Drowsiness Detection Using Dlid and CNN
 ---
 ## Install packages
 
@@ -34,7 +34,7 @@ python3 drowsiness_cnn.py
 ### CNN architecture:
 Traning on [MRL Eye Dataset](http://mrl.cs.vsb.cz/eyedataset)
 
-<img src='images/architecture.png' style='width:50%;display: block; margin-left: auto;margin-right: auto; '>
+<img src='images/architecture.png' style='width:80%;display: block; margin-left: auto;margin-right: auto; '>
 
 ### Demo
 <img src='images/output.gif' style='width:50%;display: block; margin-left: auto;margin-right: auto; '>
